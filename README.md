@@ -8,3 +8,4 @@
 - Homebrew
 - Visual Studio Code
 - Docker Desktop
+- Figma
