@@ -22,6 +22,6 @@
 ## Machine Learning
 - Scikit Learn
 - Kaggle
-- An Introduct to Statistical Learning with Applications in R Second Edition
+- An Introduction to Statistical Learning with Applications in R Second Edition
 
 
