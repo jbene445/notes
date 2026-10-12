@@ -16,6 +16,9 @@
 - Google Chrome
 - iTerm2
 
+## Command Line Tools
+- neovim
+
 ## Textbooks
 - An Introduction to Statistical Learning with Applications in R Second Edition
 
