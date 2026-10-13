@@ -18,6 +18,9 @@
 
 ## Command Line Tools
 - neovim
+- pnpm
+- node
+- tree
 
 ## Textbooks
 - An Introduction to Statistical Learning with Applications in R Second Edition
