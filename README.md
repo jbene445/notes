@@ -15,6 +15,7 @@
 - Godot
 - Google Chrome
 - iTerm2
+- Microsoft 365 and Office
 
 ## Command Line Tools
 - neovim
