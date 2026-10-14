@@ -21,6 +21,7 @@
 - pnpm
 - node
 - tree
+- uv
 
 ## Textbooks
 - An Introduction to Statistical Learning with Applications in R Second Edition
